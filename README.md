@@ -38,7 +38,6 @@ This repository is a testament to the power of collaboration between human creat
 **Connect with me:**
 
 * **Website:** [https://virtualepoch.net/](https://virtualepoch.net/)
-* **Twitter:** [@your_twitter_handle] 
 * **LinkedIn:** [https://www.linkedin.com/in/jphilippeleblanc/](https://www.linkedin.com/in/jphilippeleblanc/)
 
 **Disclaimer:** This novel was co-authored with the assistance of AI language models. While the core story and characters were conceived by a human author, the AI played a significant role in generating the prose and dialogue.
