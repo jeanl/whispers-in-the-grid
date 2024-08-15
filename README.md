@@ -1,7 +1,5 @@
-# whispers-in-the-grid
-Where human creativity meets AI ingenuity. A cyberpunk thriller born from code and imagination.
-
 # Whispers in the Grid
+Where human creativity meets AI ingenuity. A cyberpunk thriller born from code and imagination.
 
 **A Cyberpunk Thriller Born from the Fusion of Human Creativity and AI Ingenuity**
 
